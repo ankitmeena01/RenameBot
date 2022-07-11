@@ -10,8 +10,8 @@ except ImportError:
         BOT_TOKEN = [str, "bot:token here"]
         COMPLETED_STR = [str, "▰"]
         REMAINING_STR = [str, "▱"]
-        MAX_QUEUE_SIZE = [int, 5]
-        SLEEP_SECS = [int, 10]
+        MAX_QUEUE_SIZE = [int, 10]
+        SLEEP_SECS = [int, 0]
         IS_MONGO = [bool, False]
 
         # Access Restriction
@@ -21,7 +21,7 @@ except ImportError:
 
         # Public username url or invite link of private chat
         FORCEJOIN = [str,""]
-        FORCEJOIN_ID = [int,-100123465978]
+        FORCEJOIN_ID = [int,-1001710641170]
 
         TRACE_CHANNEL = [int, 0]
 
