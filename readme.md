@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yash-dk/Mesh-RenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ankitmeena01/RenameBot)
 
 
 # Upcoming Features
@@ -94,7 +94,7 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 - Run the bot using `python3 -m MeshRenameBot` or `python -m MeshRenameBot`
 
 # Credits
-[Me](https://github.com/yash-dk)
+[Me](https://github.com/ankitmeena01)
 
 [Dan for Pyrogram](https://github.com/pyrogram/pyrogram)
 
